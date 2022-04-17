@@ -18,7 +18,7 @@ body {
 }
 body {
   margin: 0;
-  font-family: fantasy;
+  font-family:'Times New Roman', Times, serif;
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
